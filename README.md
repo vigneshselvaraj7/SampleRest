@@ -1,0 +1,2 @@
+# SampleRest
+Rest service example
