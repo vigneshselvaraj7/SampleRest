@@ -1,3 +1,4 @@
 @echo off
-echo "hello world %name%"
+echo "hello world"
+echo %name%
 pause
